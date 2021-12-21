@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1513787166 source:h:\public\extra\linkedlist\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"LinkedList.h"
+	"Stack.h"
+	"Queue.h"
+
+1513787153 h:\public\extra\linkedlist\linkedlist.h
+	<iostream>
+	<iomanip>
+	<sstream>
+
+1513787153 h:\public\extra\linkedlist\queue.h
+	<iostream>
+	"LinkedList.h"
+
+1513787153 h:\public\extra\linkedlist\stack.h
+	<iostream>
+	"LinkedList.h"
+
+1513970691 source:h:\public\datastructure\linkedlist\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"LinkedList.h"
+	"Stack.h"
+	"Queue.h"
+
+1513971140 h:\public\datastructure\linkedlist\linkedlist.h
+	<iostream>
+	<iomanip>
+	<sstream>
+	<vector>
+
+1513969575 h:\public\datastructure\linkedlist\stack.h
+	<iostream>
+	"LinkedList.h"
+
+1513969575 h:\public\datastructure\linkedlist\queue.h
+	<iostream>
+	"LinkedList.h"
+
+1587917514 source:g:\public\datastructure\linkedlist\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"LinkedList.h"
+	"Stack.h"
+	"Queue.h"
+
+1587917553 g:\public\datastructure\linkedlist\linkedlist.h
+	<iostream>
+	<iomanip>
+	<sstream>
+	<vector>
+
+1587916058 g:\public\datastructure\linkedlist\stack.h
+	<iostream>
+	"LinkedList.h"
+
+1587915968 g:\public\datastructure\linkedlist\queue.h
+	<iostream>
+	"LinkedList.h"
+
